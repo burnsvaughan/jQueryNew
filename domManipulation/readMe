@@ -1,0 +1,3 @@
+This code block:
+1) takes the number of characters input into text field
+2) adds them as a p tag to the box once button is clicked
